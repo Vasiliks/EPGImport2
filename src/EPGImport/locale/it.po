@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: EPGImport Italian Translation for Enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-21 08:48+0200\n"
-"PO-Revision-Date: 2019-07-12 22:09+0100\n"
+"PO-Revision-Date: 2020-05-26 15:18+0200\n"
 "Last-Translator: William <ghenessior@gmail.com>\n"
 "Language-Team: vuplus-community\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -61,9 +61,8 @@ msgid "Cancel"
 msgstr "Annulla"
 
 #: ../filtersServices.py:240
-#, fuzzy
 msgid "Channel Selection"
-msgstr "Selezionare azione"
+msgstr "Selezione canale"
 
 #: ../plugin.py:320
 msgid "Choice days for start import"
@@ -111,14 +110,12 @@ msgid "EPG Import finished, %d events"
 msgstr "Importazione EPG completata, %d eventi"
 
 #: ../plugin.py:678
-#, fuzzy
 msgid "EPG import now"
-msgstr "Registro importazione EPG"
+msgstr "Importazione EPG ora"
 
 #: ../plugin.py:1003 ../plugin.py:1008
-#, fuzzy
 msgid "EPGImport"
-msgstr "EPG Importer"
+msgstr "EPGImport"
 
 #: ../plugin.py:417
 msgid ""
