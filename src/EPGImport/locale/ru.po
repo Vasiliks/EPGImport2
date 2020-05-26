@@ -84,7 +84,7 @@ msgid "EPG Import finished, %d events"
 msgstr "EPG импорт закончен, %d событий"
 
 msgid "EPG import now"
-msgstr "Импорет EPG сейчас"
+msgstr "Импорт EPG сейчас"
 
 msgid "EPGImport"
 msgstr "EPG импорт"
